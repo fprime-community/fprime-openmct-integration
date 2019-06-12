@@ -1,7 +1,6 @@
 # Fprime OpenMCT Server
 
-Author: Aaron Doubek-Kraft, aaron.doubek-kraft@jpl.nasa.gov
-(or aarond.k.13@gmail.com after Summer 2018)
+Author: Aaron Doubek-Kraft
 
 ## Overview
 
